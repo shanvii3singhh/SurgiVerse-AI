@@ -1,5 +1,4 @@
 # SurgiVerse-AI 🏥🤖
-![Dashboard](assets/dashboard.png)
 
 ## Problem Statement
 Many patients lose their lives because they do not receive expert medical treatment at the right time. Hospitals often lack specialists, and delayed communication between doctors can lead to critical surgical risks and treatment delays.
@@ -19,17 +18,25 @@ to improve patient outcomes and reduce treatment delays.
 
 ---
 
+# 📊 Project Dashboard
+Here is the main overview of the SurgiVerse-AI platform interface:
+
+![Dashboard](./assets/dashboard.png)
+
+---
+
 # Key Features
 
 ## 🧠 AI Surgical Risk Analysis
-![AI Analysis](./ai-analysis.png)
-
 The AI system can help predict:
 - Blood loss probability
 - Nerve damage risk
 - Surgical complications
 - Infection probability
 - Safest surgical pathways
+
+### Feature Preview:
+![AI Analysis](./assets/ai-analysis.png)
 
 ---
 
@@ -40,15 +47,19 @@ Doctors from different hospitals or cities can:
 - Collaborate during surgeries
 - Share medical reports instantly
 
+### Feature Preview:
+![VR Collaboration](./assets/vr-collaboration.png)
+
 ---
 
-## 🥽 VR/3D Medical Visualization
-![VR Workspace](./vr-collaboration.png)
-
+## 🥽 VR/3D Medical Visualization & Architecture
 - Interactive 3D organ models
 - Zoom and rotate anatomy
 - Highlight risky surgical areas
 - Better surgery planning
+
+### System Architecture:
+![Architecture](./assets/architecture.png)
 
 ---
 
@@ -57,9 +68,6 @@ The platform can help hospitals quickly connect with specialists during emergenc
 
 ---
 
-## System Architecture
-
-![Architecture](./architecture.png)
 # Tech Stack
 
 ## Frontend
