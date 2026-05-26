@@ -22,7 +22,7 @@ to improve patient outcomes and reduce treatment delays.
 # Key Features
 
 ## 🧠 AI Surgical Risk Analysis
-![AI Analysis](ai-analysis.png)
+![AI Analysis](./ai-analysis.png)
 
 The AI system can help predict:
 - Blood loss probability
@@ -43,7 +43,7 @@ Doctors from different hospitals or cities can:
 ---
 
 ## 🥽 VR/3D Medical Visualization
-![VR Workspace](vr-collaboration.png)
+![VR Workspace](./vr-collaboration.png)
 
 - Interactive 3D organ models
 - Zoom and rotate anatomy
@@ -59,7 +59,7 @@ The platform can help hospitals quickly connect with specialists during emergenc
 
 ## System Architecture
 
-![Architecture](architecture.png)
+![Architecture](./architecture.png)
 # Tech Stack
 
 ## Frontend
